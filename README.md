@@ -1,2 +1,3 @@
-# Ola-mundo
- primeiro repositorio test
+# Olá, mundo !
+ primeiro repositório criado aula git github
+
